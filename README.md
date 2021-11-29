@@ -1,10 +1,11 @@
-Hi, I’m @amakor97. 
+# Hi, I’m @amakor97. 
 
-I am a junior front-end developer from Russia.
+I am a junior frontend developer from Russia.
 
 Looking for a job in Saint-Petersburg, Russia or remote.
 
 My skills are:
+
 HTML5
 
 CSS3
