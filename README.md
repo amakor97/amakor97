@@ -6,13 +6,19 @@ Looking for a job in Saint-Petersburg, Russia or remote.
 
 My skills are:
 HTML5
+
 CSS3
+
 JS basics (currently learning)
+
 Git (currently learning)
 
 Future plans: 
+
 jQuery (probably)
+
 React
+
 Node.js basics
 
 
