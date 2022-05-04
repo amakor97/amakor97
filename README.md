@@ -10,7 +10,7 @@ HTML5
 
 CSS3
 
-JS basics (currently learning)
+JS (currently learning)
 
 Git (currently learning)
 
