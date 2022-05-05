@@ -14,6 +14,8 @@ JS (currently learning)
 
 Git (currently learning)
 
+SASS (currently learning)
+
 Future plans: 
 
 jQuery (probably)
